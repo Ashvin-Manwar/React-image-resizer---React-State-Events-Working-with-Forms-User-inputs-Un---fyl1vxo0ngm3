@@ -32,7 +32,6 @@ const App = () => {
         style={{ height:`${height}px`,width:`${width}px`}}
         id="resizable-img"
       />
-
     </div>
   )
 }
